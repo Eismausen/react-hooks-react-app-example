@@ -7,8 +7,10 @@ function ExampleComponent() {
       <img
         src="https://s3.amazonaws.com/ironboard-learn/sunglasses.gif"
         alt="a deeply impressed man, perhaps thinking 'whoa'"
+        title="whoa! you almost know what you're doing, Davery!"
       />
       <p>Whoa!</p>
+      <p>So it looks like React acts as a convenient wrapper for structuring HTML/JavaScript?</p>
     </div>
   );
 }
